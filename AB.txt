@@ -1,0 +1,25 @@
+1045
+
+RerunFlag	Y
+1300		W
+1301   Rerun=1
+	read FPM\	
+	Rerun = 2
+
+1321	read Fpm
+	Rerun = 3
+
+1341	perfrm recon
+	Rerun = Done
+
+
+
+1319   Rerun=W
+	read FPM\	
+	Rerun = W1
+
+1339	read Fpm
+	Rerun = w2
+
+1359	perfrm recon
+	Rerun = 3
