@@ -4,7 +4,7 @@ RerunFlag	Y
 1300		W
 1301   Rerun=1
 	read FPM\	
-	Rerun = 2
+	Rerun = 2xx
 
 1321	read Fpm
 	Rerun = 3
@@ -23,3 +23,7 @@ RerunFlag	Y
 
 1359	perfrm recon
 	Rerun = 3
+15000
+
+
+5x5000
